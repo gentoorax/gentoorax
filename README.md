@@ -19,7 +19,7 @@ My work typically sits at the boundary between software architecture, delivery e
 
 ## Featured projects
 
-### [Promethix.Framework.Ado](https://github.com/PromethixLabs/Promethix.Framework.Ado)
+### [AdoScope (Promethix.Framework.Ado)](https://github.com/PromethixLabs/Promethix.Framework.Ado)
 
 Lightweight scoped ADO.NET and Dapper connection/transaction lifecycle management for applications that need explicit control over persistence boundaries.
 
