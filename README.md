@@ -9,7 +9,7 @@ Application Architect and Platform Engineer with experience across enterprise .N
 <p>
   <a href="https://chrislaw.dev/cv"><strong>CV</strong></a> ·
   <a href="https://github.com/PromethixLabs"><strong>Promethix Labs</strong></a> ·
-  <a href="https://trust.promethix.dev"><strong>Trust & provenance</strong></a>
+  <a href="https://trust.promethix.dev"><strong>Trust & Provenance</strong></a>
 </p>
 
 ## Featured projects
