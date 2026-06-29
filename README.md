@@ -6,7 +6,7 @@ Application Architect and Platform Engineer with experience across enterprise .N
 
 ### [AdoScope (Promethix.Framework.Ado)](https://github.com/PromethixLabs/Promethix.Framework.Ado)
 
-Lightweight scoped ADO.NET and Dapper connection/transaction lifecycle management for applications that need explicit control over persistence boundaries.
+Lightweight scoped ADO.NET and Dapper connection/transaction lifecycle management for applications that need explicit control over persistence boundaries. AdoScope is used in large enterprise .NET systems and is built around patterns proven in production environments where transaction correctness, maintainability, and operational clarity matter.
 
 Related: [AdoScope blog post](https://chrislaw.dev)
 
