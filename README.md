@@ -2,21 +2,6 @@
 
 Application Architect and Platform Engineer with experience across enterprise .NET modernisation, Kubernetes platforms, DevOps, DevSecOps, and infrastructure operations.
 
-In my day role at Atos, I focus on application architecture, transformation, and modernisation in the .NET ecosystem. Outside that, I run infrastructure and open-source projects under the Promethix and Lawsystems brands, including Kubernetes-based hosting/platform support for a small marketing consultancy and virtualised CAD infrastructure for a structural engineering firm.
-
-My work typically sits at the boundary between software architecture, delivery engineering, and platform operations: modernising legacy .NET systems, improving testability and deployment safety, and building the infrastructure needed to run applications reliably.
-
-## Current focus
-
-- Enterprise .NET modernisation and architectural refactoring
-- Modular monolith architecture
-- Dependency injection, automated testing, CI/CD, and clearer application layering
-- ADO.NET, Dapper, scoped data access, and unit-of-work patterns
-- Kubernetes operators, Helm charts, GitOps, and Cloudflare Tunnel automation
-- Supply-chain transparency: SBOMs, provenance, checksums, and release verification
-- Private-cloud infrastructure using Proxmox, Kubernetes, Vault, Cilium, Flux, Ceph, and TrueNAS
-- AI-assisted software engineering and self-hosted LLM infrastructure
-
 ## Featured projects
 
 ### [AdoScope (Promethix.Framework.Ado)](https://github.com/PromethixLabs/Promethix.Framework.Ado)
@@ -32,6 +17,23 @@ Kubernetes operator for managing Cloudflare Tunnel route lifecycle from within t
 ### [Promethix Helm Charts](https://github.com/PromethixLabs/charts)
 
 Public Helm chart repository for Promethix Labs projects and supporting platform components.
+
+## About my work
+
+In my day role at Atos, I focus on application architecture, transformation, and modernisation in the .NET ecosystem. Outside that, I run infrastructure and open-source projects under the Promethix and Lawsystems brands, including Kubernetes-based hosting/platform support for a small marketing consultancy and virtualised CAD infrastructure for a structural engineering firm.
+
+My work typically sits at the boundary between software architecture, delivery engineering, and platform operations: modernising legacy .NET systems, improving testability and deployment safety, and building the infrastructure needed to run applications reliably.
+
+## Current focus
+
+- Enterprise .NET modernisation and architectural refactoring
+- Modular monolith architecture
+- Dependency injection, automated testing, CI/CD, and clearer application layering
+- ADO.NET, Dapper, scoped data access, and unit-of-work patterns
+- Kubernetes operators, Helm charts, GitOps, and Cloudflare Tunnel automation
+- Supply-chain transparency: SBOMs, provenance, checksums, and release verification
+- Private-cloud infrastructure using Proxmox, Kubernetes, Vault, Cilium, Flux, Ceph, and TrueNAS
+- AI-assisted software engineering and self-hosted LLM infrastructure
 
 ## Engineering values
 
