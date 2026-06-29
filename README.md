@@ -1,6 +1,16 @@
+<p align="center">
+  <img src="assets/profile-banner.svg" alt="Christopher Law - Application Architect and Platform Engineer" />
+</p>
+
 # Christopher Law (gentoorax)
 
 Application Architect and Platform Engineer with experience across enterprise .NET modernisation, Kubernetes platforms, DevOps, DevSecOps, and infrastructure operations.
+
+<p>
+  <a href="https://chrislaw.dev/cv"><strong>CV</strong></a> ·
+  <a href="https://github.com/PromethixLabs"><strong>Promethix Labs</strong></a> ·
+  <a href="https://trust.promethix.dev"><strong>Trust & provenance</strong></a>
+</p>
 
 ## Featured projects
 
