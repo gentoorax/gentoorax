@@ -4,21 +4,16 @@ Application Architect and Platform Engineer with experience across enterprise .N
 
 ## Featured projects
 
-### [AdoScope (Promethix.Framework.Ado)](https://github.com/PromethixLabs/Promethix.Framework.Ado)
+| Project | Focus | Notes |
+| --- | --- | --- |
+| [AdoScope](https://github.com/PromethixLabs/Promethix.Framework.Ado) | ADO.NET / Dapper data access | Scoped connection and transaction lifecycle management for applications that need explicit persistence boundaries. |
+| [Cloudflare Router Operator](https://github.com/PromethixLabs/Promethix.Operator.CloudflareRouter) | Kubernetes / Cloudflare Tunnel | Kubernetes operator for managing Cloudflare Tunnel route lifecycle from within the cluster. |
+| [Promethix Helm Charts](https://github.com/PromethixLabs/charts) | Helm / Kubernetes packaging | Public Helm chart repository for Promethix Labs projects and supporting platform components. |
 
-Lightweight scoped ADO.NET and Dapper connection/transaction lifecycle management for applications that need explicit control over persistence boundaries.
-
+> **AdoScope in production**  
 > Used in large enterprise .NET systems and built around production-proven patterns where transaction correctness, maintainability, and operational clarity matter.
 
 Related: [AdoScope blog post](https://chrislaw.dev)
-
-### [Promethix.Operator.CloudflareRouter](https://github.com/PromethixLabs/Promethix.Operator.CloudflareRouter)
-
-Kubernetes operator for managing Cloudflare Tunnel route lifecycle from within the cluster.
-
-### [Promethix Helm Charts](https://github.com/PromethixLabs/charts)
-
-Public Helm chart repository for Promethix Labs projects and supporting platform components.
 
 ## About my work
 
