@@ -11,7 +11,7 @@ Application Architect and Platform Engineer with experience across enterprise .N
 | [Promethix Helm Charts](https://github.com/PromethixLabs/charts) | Helm / Kubernetes packaging | Public Helm chart repository for Promethix Labs projects and supporting platform components. |
 
 > **AdoScope in production**  
-> The `Promethix.Framework.Ado` library is used in large enterprise .NET systems and built around production-proven patterns where transaction correctness, maintainability, and operational clarity matter.
+> The AdoScope library is used in large enterprise .NET systems and built around production-proven patterns where transaction correctness, maintainability, and operational clarity matter.
 
 Related: [AdoScope blog post](https://chrislaw.dev)
 
