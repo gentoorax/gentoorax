@@ -1,37 +1,45 @@
-# Hi, I'm Chris Law 👋
+# Christopher Law (gentoorax)
 
-I'm a Software Architect and Platform Engineer focused on .NET, Kubernetes, GitOps, DevSecOps, and pragmatic production-grade architecture.
+Application Architect and Platform Engineer with experience across enterprise .NET modernisation, Kubernetes platforms, DevOps, DevSecOps, and infrastructure operations.
 
-I work across application modernisation, CI/CD, infrastructure automation, private-cloud platforms, and secure delivery pipelines. My open-source work is published under [Promethix Labs](https://github.com/PromethixLabs).
+In my day role at Atos, I focus on application architecture, transformation, and modernisation in the .NET ecosystem. Outside that, I run infrastructure and open-source projects under the Promethix and Lawsystems brands, including Kubernetes-based hosting/platform support for a small marketing consultancy and virtualised CAD infrastructure for a structural engineering firm.
+
+My work typically sits at the boundary between software architecture, delivery engineering, and platform operations: modernising legacy .NET systems, improving testability and deployment safety, and building the infrastructure needed to run applications reliably.
 
 ## Current focus
 
-- Building .NET libraries and platform tooling under Promethix Labs
+- Enterprise .NET modernisation and architectural refactoring
+- Modular monolith architecture
+- Dependency injection, automated testing, CI/CD, and clearer application layering
+- ADO.NET, Dapper, scoped data access, and unit-of-work patterns
 - Kubernetes operators, Helm charts, GitOps, and Cloudflare Tunnel automation
 - Supply-chain transparency: SBOMs, provenance, checksums, and release verification
-- Homelab and private-cloud infrastructure with Proxmox, Kubernetes, Vault, Cilium, Flux, Ceph, and TrueNAS
+- Private-cloud infrastructure using Proxmox, Kubernetes, Vault, Cilium, Flux, Ceph, and TrueNAS
 - AI-assisted software engineering and self-hosted LLM infrastructure
 
 ## Featured projects
 
 ### [Promethix.Framework.Ado](https://github.com/PromethixLabs/Promethix.Framework.Ado)
 
-Lightweight scoped ADO.NET and Dapper transaction and connection lifecycle management.
+Lightweight scoped ADO.NET and Dapper connection/transaction lifecycle management for applications that need explicit control over persistence boundaries.
+
+Related: [AdoScope blog post](https://chrislaw.dev)
 
 ### [Promethix.Operator.CloudflareRouter](https://github.com/PromethixLabs/Promethix.Operator.CloudflareRouter)
 
-Kubernetes operator for Cloudflare Tunnel route lifecycle automation.
+Kubernetes operator for managing Cloudflare Tunnel route lifecycle from within the cluster.
 
 ### [Promethix Helm Charts](https://github.com/PromethixLabs/charts)
 
-Public Helm chart repository for Promethix Labs projects.
+Public Helm chart repository for Promethix Labs projects and supporting platform components.
 
 ## Engineering values
 
-- Explicit architecture over hidden framework magic
-- Operational safety over theoretical purity
-- Clear boundaries, maintainable code, and observable systems
+- Explicit architecture and clear boundaries
+- Maintainable systems over clever abstractions
+- Operational safety, observability, and repeatable delivery
 - Security, provenance, and release traceability by default
+- Pragmatic modernisation that improves real-world maintainability
 
 ## Links
 
